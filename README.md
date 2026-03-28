@@ -3,8 +3,6 @@ A comprehensive Python-based project demonstrating the end-to-end lifecycle of m
 
 ----
 
-# Healthcare-Data-Synthesis-and-Analysis
-
 [](https://www.python.org/)
 [](https://pandas.pydata.org/)
 [](https://seaborn.pydata.org/)
